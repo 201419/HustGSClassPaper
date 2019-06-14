@@ -510,7 +510,7 @@
 			\vspace*{3em}
 			\includegraphics[height=1.61cm]{Blank.eps}\\
 			\vspace*{2em}
-			{\zihao{-0} \huawenzhongsong \bfseries 研究生（\HGSCP@titlelinefont\@classname）课程论文}\\
+			{\zihao{-0} \huawenzhongsong \bfseries 研究生 \HGSCP@titlelinefont\@classname 课程论文}\\
 			\vspace{2em}
 			{\zihao{2} \heiti \bfseries \@title}\\
 			\vspace{6em}
